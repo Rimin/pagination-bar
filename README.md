@@ -28,3 +28,4 @@ import the js,then invoke the main function and pass the number(parameter) of pa
 ```
 pageNav(18);
 ```
+最后可以看一下效果，点击 [demo]( https://rimin.github.io/pagination-bar/pagenav.html)   
