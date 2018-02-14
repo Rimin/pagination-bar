@@ -1,6 +1,6 @@
 # pagination-bar
 this is a pagination bar  used on web page<br>
-using pure js
+using pure js（纯js）
 
 ### function
 Get the number of pages dynamically，it can just arrange the distribution of the button.<br>
