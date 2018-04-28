@@ -9,7 +9,7 @@ Get the number of pages dynamically，it can just arrange the distribution of th
 
 ### start
 copy the html and css,or write the css by yourself.<br>
-复制html代码和css，或者你自己写css。
+复制html代码和css，或者自定义css样式。
 ```
 <div id="pageNav">
     <a href="javascript:" class="fl" id="first-page">首页</a>
